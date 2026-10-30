@@ -1,0 +1,10 @@
+/home/ibke/Documents/uni/C#/programming_tecnologies/bin/Debug/net10.0/programming_tecnologies
+/home/ibke/Documents/uni/C#/programming_tecnologies/bin/Debug/net10.0/programming_tecnologies.dll
+/home/ibke/Documents/uni/C#/programming_tecnologies/bin/Debug/net10.0/programming_tecnologies.pdb
+/home/ibke/Documents/uni/C#/programming_tecnologies/obj/Debug/net10.0/programming_tecnologies.GeneratedMSBuildEditorConfig.editorconfig
+/home/ibke/Documents/uni/C#/programming_tecnologies/obj/Debug/net10.0/programming_tecnologies.AssemblyInfoInputs.cache
+/home/ibke/Documents/uni/C#/programming_tecnologies/obj/Debug/net10.0/programming_tecnologies.AssemblyInfo.cs
+/home/ibke/Documents/uni/C#/programming_tecnologies/obj/Debug/net10.0/programming_tecnologies.csproj.CoreCompileInputs.cache
+/home/ibke/Documents/uni/C#/programming_tecnologies/obj/Debug/net10.0/programming_tecnologies.dll
+/home/ibke/Documents/uni/C#/programming_tecnologies/obj/Debug/net10.0/refint/programming_tecnologies.dll
+/home/ibke/Documents/uni/C#/programming_tecnologies/obj/Debug/net10.0/programming_tecnologies.pdb
